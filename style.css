@@ -1,0 +1,9 @@
+#results {
+  display: none;
+}
+
+#loading {
+  display: none;
+}
+
+/* #results,.loading { display: none; } */
